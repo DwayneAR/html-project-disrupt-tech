@@ -1,0 +1,250 @@
+Media----------------------------------------------
+
+The Internet is the decisive technology of the Information Age,
+ and with the explosion of wireless communication in the early twenty-first century, 
+ we can say that humankind is now almost entirely connected, albeit with great levels of 
+ inequality in bandwidth, efficiency, and price.
+
+People, companies, and institutions feel the depth of this technological change,
+ but the speed and scope of the transformation has triggered all manner of utopian
+ and dystopian perceptions that, when examined closely through methodologically rigorous
+ empirical research, turn out not to be accurate. For instance, media often report that
+ intense use of the Internet increases the risk of isolation, alienation, and withdrawal
+ from society, but available evidence shows that the Internet neither isolates people nor
+ reduces their sociability; it actually increases sociability, civic engagement, and the
+ intensity of family and friendship relationships, in all cultures.
+
+Our current “network society” is a product of the digital revolution
+and some major sociocultural changes. One of these is the rise of the “Me-centered society,”
+ marked by an increased focus on individual growth and a decline in community understood in
+ terms of space, work, family, and ascription in general. But individuation does not mean
+ isolation, or the end of community. Instead, social relationships are being reconstructed
+ on the basis of individual interests, values, and projects. Community is formed through individuals’
+ quests for like-minded people in a process that combines online interaction with offline interaction,
+ cyberspace, and the local space.
+
+Globally, time spent on social networking sites surpassed time spent on e-mail in November 2007,
+ and the number of social networking users surpassed the number of e-mail users in July 2009. Today,
+ social networking sites are the preferred platforms for all kinds of activities, both business and
+ personal, and sociability has dramatically increased — but it is a different kind of sociability.
+ Most Facebook users visit the site daily, and they connect on multiple dimensions, but only
+ on the dimensions they choose. The virtual life is becoming more social than the physical
+ life, but it is less a virtual reality than a real virtuality, facilitating real-life work and urban living.
+ 
+ Education------------------------------------------
+ 
+ Excitement about the role of technology in improving education is a good thing as far as I’m concerned.
+ Education is a segment that needs disruptive innovation. To me the hype around things like MOOCs represents 
+ a longing by many for “a better educational future” – presumably involving lower costs to students and better
+ career/life fulfillment, not to mention better global citizens needed to solve our global challenges. Let’s face it
+ - there is a general sense that the current education system is not up to the challenges of the future. And, it’s 
+ not clear how we get from “here” to “there.”
+
+But, as leaders in the education segment we do need to get better at understanding where we have been and where
+ we are going, what constitutes innovation and/or disruption that is worthy of investment?  Are you an investor?
+ I would argue that any individual that is putting time into educational technology leadership at any level is an
+ investor, but certainly institutions that are spending on innovation, and yes, venture capital investors (investors
+ in this segment, including some pretty big names, are making some bad decisions right now about where they are putting
+ their money – but this post is more about how institutions should decide to invest their resources).
+
+In IMS we try to ferret out “winners” by looking at criteria for something we call “Learning Impact” – which is defined
+ by a set of judging criteria we use in our annual Learning Impact Awards (LIAs). You can think of it as evidence that
+ the application of technology in an educational setting has had a clear impact on access, affordability and/or quality.
+ We’re pretty proud of this program because there is simply no way to win with hype. But, in general the whole annual
+ Learning Impact event is about understanding where the innovation really is.
+
+Right now there are quite a few over-hyped activities in the education segment.  I would include in these MOOCs,
+ Common Core State Standards, analytics, badges and open educational resources (OER). Sorry if I tipped over one of
+ your sacred cows there!  Over-hyped does not mean that something good will not come from these developments.
+ It just means that they are being portrayed as more significant in terms of ability to “disrupt” education than
+ they will be capable of delivering on. As with most hyped innovations, eventually some aspects of the innovation
+ “survive,” crossing the chasm to productive advancement of the industry. The challenge for innovators and investors
+ is to utilize critical thinking to rationalize what will sustain and what the real Impact will be.
+
+MOOCs are perhaps everyone’s favorite example of hype right now. It’s difficult to imagine how something
+ could have achieved more hype in the higher education segment – and they are very clearly striking a nerve
+ for being potentially highly disruptive. Literally every day MOOCs are in the headlines – and smart marketers
+ are trying to jump on the MOOC bandwagon even as that bandwagon morphs continually to address the glaring deficits
+ of the MOOC model and quite frankly, more failures than successes at this point.
+
+Clayton Christensen, the leading expert on “disruptive innovation,” has written at least two books specifically focused
+ on education. According to Christensen’s disruptive innovation theory markets are disrupted when new entrants figure
+ out an innovative way to provide a “simpler” product to a wider set of buyers at a more affordable price.
+ Since the simpler product is actually what the broader market prefers (simpler means more usable, more effective
+ for the desired purposes) the product is highly disruptive – better product at lower price point.  And thus, these
+ new entrants change the market behavior substantially.  Jim Farmer does a very thorough job of digging into the theories
+ as applied to MOOCs here.
+
+While I, like many other silicon valley entrepreneurs, have found Christensen’s original formulations on disruptive
+ innovation descriptive of what is generally seen in the high tech world, and a useful thought framework, well, the
+ problem is that these formulations have not been at all predictive for education – and that is the acid test for using 
+ theory for strategic gain – is it predictive?  Writing about what happened in the past and putting a framework around
+ it is great – but if it doesn't help predict the future it doesn’t especially help entrepreneurs or us “investors.”
+
+The innovators in the education segment have NOT disrupted the status quo significantly so far. While Christensen predicted
+ in 2008’s Disrupting Class great disruptions in the segment from online learning, the reality so far is that greater adoption
+ of online learning has continued as expected but not very disruptive: price points for education continue to rise ahead
+ of inflation and while online education continues to grow it is largely seen as reflecting traditional models rather than
+ a disruption.  And, while online/blended models have certainly improved access – well, the percentage of the population that
+ has achieved credentials has been very level.  I wrote a paper about what the technology impact in higher education back in
+ 2005-7 - and the situation is not significantly different today.
+
+Christensen was recently quoted in an interview as stating that higher education institutions are going to be in real trouble
+ 5 years from now. However, he has not made it clear why things will be different in the next 5 years versus the last 5 years
+ since Disrupting Class was published. I do agree that “buyers” (students/parents) are in fact getting smarter about looking
+ for lower cost options as well as attempting to understand the value of a higher education degree.  But I would argue that
+ we are nowhere near a true disruption (rise) in the number of participants in higher education.
+
+While it is very valuable to have any great thinker on business strategy analyzing education and providing insights from other
+ industries that might apply (like Christensen), education leaders need to do their own critical thinking about these formulations
+ of “disruptive innovation” in the education segment.
+
+I’d like to provide three key factors that IMHO are needed to be understood if to  understand disruption in education. While
+ these factors may be relevant to understanding MOOCs, they can be applied to other hype areas as well. Hold on to your hat
+ here as these are things that we don’t hear much talk about in the education space – especially when you go to meetings on
+ one of the hyped topics or even to investor conferences!
+
+Education is a complex services business in which quality is difficult to define. Disruption in the education space requires
+ better service models that are built around improved educational program quality. Comparison of education to the disruption
+ of the steel industry by mini-mills (a connection some have made because Christensen uses this as a classic example of disruption)
+ is not a valid comparison. Disruption in education is not about replacing the low end of a well-defined product. It’s about redefining
+ quality in a much more complex world of knowledge than that from which most current educational models were designed.  So, for instance,
+ a true disruption in education would be highly desirable/effective K-masters degree in 15-16 years versus the current 19 years
+ (ideally that meets the needs of under performing populations as well as traditionally successful populations).
+The next phase of true progress will be to come out of the current era of massification into a new era of more real world
+ relevant and personalized educational pathways.  Massification of educational experiences will not be the ticket to success
+ in the next wave of educational models. It seems that many of the entrepreneurs and investors in the education space fail to
+ realize that we have already been in the era of massification of education for the last 30 years or so in developed countries.
+ The disruption in terms of content will need to be content that enables educational experiences that are up-to-date (read “relevant”),
+ adaptive to the interests of the learner, easily adaptable by teachers and yet thorough in terms of teaching the educational foundation
+ that are defined via #1.  No offense to our friends at Coursera (one of the growing number of MOOC providers), but “course era” is an
+ especially off the mark name for describing the future IMHO.  It is NOT a course era now in education nor will it be in the future.
+ It is the same era that it has been: which is one in which a distinctive program of high quality education will be highly valued.
+ It's just that we need to do a better job getting such distinctive programs to the currently underserved populations at a better price point.
+ Yes, there will be different sources of supporting digital resources that will help enable the redesign of educational delivery
+ (potentially a role for MOOC courses). As discussed in other LI blog posts (here & here) digital resources will need to be in a form
+ of a highly usable toolkit for faculty and learners.  But, these supporting resources have a VERY long way to go to meet the needs of
+ learners. And, the more available (i.e. free, open, massive, etc) a course or content becomes the faster it will become commoditized.
+Education is the ultimate “long tail” market with a growing proliferation of high value niche providers and boutique programs. This is
+ only going to increase in the future. Contrary to other recent online phenomena like facebook or twitter, education is not a “winner take all”
+ market. I was at an education investor conference earlier this year where a leading investment advisor made the statement that education
+ is the “ultimate winner take all market.” Education, if done correctly, is life success enabling. The more unique and distinctive your
+ educational experience is, the more valuable it is. The ability to produce knowledge is the key currency in the current and future global
+ economy. There is no distinctiveness to attending “Massified University.” And, a credential from a massive provider will most likely be such
+ a commodity that most will prefer not to waste their time on it (other than for pure fun or reference). We need many more niche-oriented
+ institutions that provide specialized, career-enabling and life-enabling education. Note that even large public institutions, while having
+ many students, can engage this philosophy to create a large number of differentiated programs of study.   Therefore, the “disruptive
+ technology platforms” for education will need to enable great diversity. Diversity in terms of delivery models and blending of high touch
+ with personalized self-service.  Disruptive platforms will also need to enable seamless integration among cooperating providers of the various
+ components of a solution – meaning close partnership among institutions as well as innovative learning tools.  Old style Web 2.0 thinking
+ of the single pervasive platform or the single way of analyzing data will not work for the future of education. Education is not that
+ simple (sorry!).
+Are MOOCs potentially promising innovations? Yes. They are clearly an evolution of the trend toward pervasive online/blended/more flexible
+ educational models/flipping the classroom. Will they disrupt education?  Not on the current trajectory. They pretty much fly in the face
+ of the three tenants above.
+
+But, there are some potential ways in which MOOCs could be disruptive in a more limited way.
+
+I think MOOCs have the potential to be disruptive on the low end of the education market as a new model for delivering “open university
+ style education.”  For example, today’s MOOCs could be an appealing alternative to the content portion of massive open universities
+ around the world, featuring star professors from highly ranked universities. And, such populations of learners could probably support
+ an advertising/low course fee model of consumption. So, open university providers get a “pay per use” version of content (versus the
+ larger investments they must make today for tuition) that is likely better than what they are offering today, which if subsidized by 
+ advertising (net revenue equals small pay per use from open university provider coupled with advertising revenues) could equate to 
+ substantial revenues over a large numbers of users with similar interests (as indicated by the topic of study).
+
+In such a model MOOCs could also double as a new type of “tutorial” reference materials. Very much like Kahn Academy, which is often 
+referred to as a MOOC now even though it existed for a few years prior to the term.
+
+Would this application of MOOCs be disruptive? Well, if you consider displacement of open universities and/or 
+a new business model for them disruptive, then yes.  This approach could potentially disrupt the open university
+ market worldwide and create a much larger interest in open university derivative models as a way to learn more
+ about a particular topic and/or as preparation for entry to other universities.  Will they substitute for those universities
+ – no. Such a disruption will not radically change the efficiency of higher education segment at all.
+
+Is there a strong motivation for current providers of education to engage in this model? Unclear. As previously discussed 
+the more you commoditize an educational experience the less valuable the education is. As discussed above the next stage in
+ education is greater diversification, not massification. Personally I would like to see existing institutions respond to the three 
+ factors above by rolling out new “institutes” with new types of degree programs that meet the evolving needs of society.
+
+Should open universities or other new entrants that wish to compete in that space try a MOOC/advertising/low course fee supported model? 
+ I hope so.  That would be a good fit with the “course-focused” strength of MOOCs.  It would also provide a potential revenue producing 
+ and marketing outlet for institutions and their “star teachers.” Of course there are the normal challenges of achieving accreditation 
+ from the countries/states as needed to prove value to the potential students.
+
+So, hooray for the MOOC phenomena in terms of making claims about needed innovations such as scale, analytics and the potential power
+ of star teachers that will help accelerate the innovation trend toward online/blended that we are already on! And, congratulations
+ to the leading institutions willing to make a space to try out the MOOC innovations as another set of tools that might be leveraged
+ in the quest for improved education.
+
+However, I would say that if you don’t know at this point why you are investing (in terms of what impact you expect will sustain at your
+ institution, and therefore what the return on your investment is likely to be) then you are not applying the level of critical thinking
+ you need to. Personally I would be asking MOOC providers to take the risk in terms of proving the validity of the market/business model
+ (such as the ideas around open university displacement) – and not taking on that risk for my university. 
+ 
+ 
+ Government---------------------------------
+ 
+ The disruptive potential of digital technologies has become a hot topic in recent years.
+ There are calls for governments to add or remove regulations, invest in digital start ups,
+ and protect the jobs of workers threatened by new ways of doing business. This research paper reviews
+ and interprets expert opinion on disruption in order to inform governments about the policy tasks posed
+ by digital technologies. For the Commission, this review sets a broader framing for the formal inquiries
+ into Data Availability and Use, and Intellectual Property Arrangements. It also provides context for important
+ work that we expect to come to us on productivity growth in a time of apparent digital transformation.
+
+With rapid advances in computing power, connectivity, mobility, and data storage capacity over the last few decades,
+ digital technologies offer opportunities for higher productivity growth and improvements in living standards. But they 
+ also pose risks of higher inequality and dislocation of labour and capital. Speculation about the effects of technologies often
+ suffer from extreme optimism or pessimism. In the 1930s, several countries were enthusiastically experimenting with using new rocket
+ technology to deliver mail, and in 1959, the United States trialed mail delivery via cruise missile, a proposition that could now be
+ regarded as comical. The Commission has attempted to avoid the overly excited or dire views of the impacts of current digital technologies,
+ while recognizing their potential where evident.
+
+There is nevertheless a serious debate amongst economists on whether we are extracting less benefit from today's digital disruption than from 
+previous disruptions or industrial revolutions of the 1870s, 1920s or even 1980s. The data suggests this is so — Australia, and indeed other
+ advanced economies, has yet to see digital technologies drive significant productivity growth or result in substantial disruption at a sector
+ or economy wide level.
+
+This is not a matter of minor technical interest. Productivity in its clearest form — multifactor productivity — has not recorded the kind of growth
+ that would be expected from a period of change described as 'disruptive'. While measurement of the productivity of new technologies is often problematic,
+ US analysis indicates that measurement issues do not sufficiently explain the drop off in productivity. The open and critical questions are: whether the 
+ current economic lassitude is primarily a delay before the onset of significant social and economic changes driven by digital disruption; whether government
+ policies (or lack of them) might themselves be frustrating the realization of the benefits; or whether the effects of this disruption are less fundamental
+ than initially thought.
+
+The scope for pro productivity policies — drawing on both digital and non digital opportunities — will be examined in the Commission's future work. This 
+report contributes to that task by exploring the potential impacts and challenges of digital technology for markets and competition, workers and society,
+ and the way governments operate. With a few exceptions, governments across Australia have, to date, evidenced largely reactive responses to dealing with
+ digital technologies. Despite promising statements, we have also been unremarkable in our adoption of technologies to improve public sector processes
+ and service delivery.
+
+In a short paper such as this, we do not seek to answer big policy questions in any comprehensive way but rather provide an informed direction about where
+ policy may need to go. And while we hope to avoid 'rocket mail' errors, we expect that not every Finding reached in this report will ultimately prove
+ accurate. But absence of conjecture in this space would be both timid and unhelpful to the development of a productivity policy agenda.
+
+The Commission anticipates digital technologies will continue and likely accelerate changes in Australia's economy. Digital technologies offer greater scope
+ for more distributed production, and facilitate the trend toward more service elements — pre and post production services — in manufactured and other goods.
+ Data is a new source of market power but, in the face of the digital economy, advantage may also only be short lived. How governments deal with market
+ power will be important for both those who control, and those who want to use, data and networks. Digital platforms are enabling greater utilization of assets,
+ including research and household assets. Where governments enable this, firms, households and consumers stand to benefit from a greater product range,
+ new sources of income and often lower prices. More generally, digital platforms afford more power to consumers than in the past — they can share views on products
+ and make more informed consumer choices. Some regulations aimed at improving consumer information may become redundant; those aimed at ensuring information is
+ authentic and platforms are not gamed, may become critical.
+
+There is much governments can do to enable the creation and take up of digital reform opportunities without favoring particular technologies. In markets that
+ are currently highly regulated but where digital technologies allow more producers — electricity generation is one such case — governments will need to review
+ the institutional and regulatory arrangements to ensure that new technologies can compete for market share. More generally, standards to support interoperability
+ of digital technologies and ensuring investment in enabling infrastructures (such as reliable and readily upgradeable communications networks), can help with rapid
+ technological diffusion.
+
+There will be adjustments that come with digital disruption. Some workers will struggle to adjust to changes in demand for their skills and new, more flexible but
+ less reliable, work options. Australia's social safety net will remain important in mitigating risks for workers and lessening the effects of a widening distribution
+ in incomes. Broader protections for an individual's rights (such as with control of personal information) and to support society's moral and ethical mores (relevant
+ to technological advancements into artificial intelligence, remote sensing and medical research) will require ongoing government attention informed by scientific evidence.
+
+Digital technologies offer governments scope to improve their own service delivery, including through better assessment of risk in regulatory activities, integration of
+human services, and infrastructure management. Digital technologies will also make governments more publicly accountable than in times past and raise pressure for
+greater transparency. By showing leadership in their own practices, re designing regulation to enable rather than block the adoption of digital technologies, and
+mitigate community level risks where practical, governments can do more than they appear to envisage today.
+
